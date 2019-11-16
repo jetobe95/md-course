@@ -1,17 +1,18 @@
 <!-- Heading -->
 
-# Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
-## Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
-### Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
-#### Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
-##### Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+# h1 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+## h2 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+### h3 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+#### h4 Occaecat ut quis mollit cillum cupidatat commodo h5 velit eiusmod.
+##### h6 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+
 
 
 <!-- Citas -->
-
+# Blockquotes
 > Exercitation enim dolore commodo consectetur.
 
-~~Minim~~ **deserunt** ipsum ad nulla irure anim nulla aliqua proident velit amet anim proident cupidatat. Labore anim aliquip consectetur ea cillum aute elit eu do mollit elit nisi in. Magna id id irure ut eiusmod non.
+~~Minim~~ **deserunt** ipsum ad _nulla_ irure anim nulla aliqua proident velit amet anim proident cupidatat. Labore anim aliquip consectetur ea cillum aute elit eu do mollit elit nisi in. Magna id id irure ut eiusmod non.
 
 # Lists
 1. ~~Make lunch~~
@@ -26,8 +27,8 @@
 
 # Links
 
-[www.google.com](goo)
-# Highligth syntax
+[ Google webpage ](www.google.com)
+# Syntax Highlighting
 
 ### Javascript
 
@@ -57,10 +58,12 @@ let bar;
 |Laborum commodo ipsum cillum consectetur Lorem ut incididunt ut tempor mollit.|Voluptate laboris occaecat dolor culpa elit Lorem veniam excepteur excepteur aute nostrud commodo eiusmod.|Ea duis excepteur laboris exercitation officia cupidatat enim occaecat pariatur.
 
 # Images
-![Visual studio code logo](vscode.png "Vscode logo")
+[logo]:vscode.png "Vscode logo"
+
+![Vscode][logo]
 
 # TODO 
-* [ ] Task 1
+* [x] Task 1
 
 * [ ] Task 2
 
@@ -68,5 +71,6 @@ let bar;
 
 ## Mention another github users
 @jetobe95 :satisfied: :heart:
+
 
 
