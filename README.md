@@ -18,12 +18,18 @@
 1. ~~Make lunch~~
 
     1.1 Buy some of rice
-
     1.1 Buy some of coke
+
 
 * item 1
 * item 2
 * item 3
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 # Links
 
@@ -62,13 +68,15 @@ let bar;
 
 ![Vscode][logo]
 
+<!-- GITHUB -->
 # TODO 
 * [x] Task 1
 
 * [ ] Task 2
 
 * [ ] Task 3
-
+## Commit 1
+4cc16a63614af5f6d4eecd211e5609213ce2ff77
 ## Mention another github users
 @jetobe95 :satisfied: :heart:
 
