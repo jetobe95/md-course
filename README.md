@@ -10,9 +10,9 @@
 
 <!-- Citas -->
 # Blockquotes
-> Exercitation enim dolore commodo consectetur.
+> Exercitation enUt sint officia ipsum est occaecat ex culpa ut reprehenderit minim Lorem dolore ex laborum. Consectetur ullamco commodo proident fugiat anim _officia eiusmod_ reprehenderit et. Ex velit elit nulla laboris ipsum reprehenderit nostrud enim minim commodo officia.im dolore commodo consectetur.
 
-~~Minim~~ **deserunt** ipsum ad _nulla_ irure anim nulla aliqua proident velit amet anim proident cupidatat. Labore anim aliquip consectetur ea cillum aute elit eu do mollit elit nisi in. Magna id id irure ut eiusmod non.
+~~Minim~~ **deserunt** ipsum ad _nulla_ irure anim nulla aliqua proident velit amet anim proident cupidatat. `Labore anim aliquip` consectetur ea cillum aute elit eu do mollit elit nisi in. Magna id id irure ut eiusmod non.
 
 # Lists
 1. ~~Make lunch~~
@@ -59,9 +59,10 @@ let bar;
 
 # Tables
 
-|head1|head2|head3|
-|---|---|--------|
+|~~head1~~|_head2_|head3|
+|---:|:---:|--------|
 |Laborum commodo ipsum cillum consectetur Lorem ut incididunt ut tempor mollit.|Voluptate laboris occaecat dolor culpa elit Lorem veniam excepteur excepteur aute nostrud commodo eiusmod.|Ea duis excepteur laboris exercitation officia cupidatat enim occaecat pariatur.
+|_`code`_|![Vscode][logo]
 
 # Images
 [logo]:vscode.png "Vscode logo"
