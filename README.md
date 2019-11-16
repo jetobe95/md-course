@@ -60,10 +60,10 @@ let bar;
 ![Visual studio code logo](vscode.png "Vscode logo")
 
 # Tareas 
-* [] Task 1
+* [ ] Task 1
 
-* [] Task 2
+* [ ] Task 2
 
-* [] Task 3
+* [ ] Task 3
 
 
