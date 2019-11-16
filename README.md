@@ -1,12 +1,44 @@
+# A simple Markdown Tutorial
+
+Markdown is a powerfull text processor, Markdown allows you to generate easy text with basic text format.
+
+------
+
 <!-- Heading -->
 
+Markdown allows to create text with emphasis like titles and subtitles. The way to create and header is adding a (`#`) before your text. Let me send you an example:
+
+```plain
 # h1 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+```
+
+# h1 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+
+```plain
 ## h2 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+```
+
+## h2 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+
+```plain
 ### h3 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+```
+
+### h3 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+
+```plain
 #### h4 Occaecat ut quis mollit cillum cupidatat commodo h5 velit eiusmod.
-##### h6 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+```
 
+#### h4 Occaecat ut quis mollit cillum cupidatat commodo h5 velit eiusmod.
 
+```plain
+##### h5 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+```
+
+##### h5 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+
+-----
 
 <!-- Citas -->
 # Blockquotes
@@ -14,16 +46,40 @@
 
 ~~Minim~~ **deserunt** ipsum ad _nulla_ irure anim nulla aliqua proident velit amet anim proident cupidatat. `Labore anim aliquip` consectetur ea cillum aute elit eu do mollit elit nisi in. Magna id id irure ut eiusmod non.
 
+------
+
 # Lists
+
+```plain
+1. ~~Make lunch~~
+
+    1.1 Buy some of rice
+    1.1 Buy some of coke
+```
+
 1. ~~Make lunch~~
 
     1.1 Buy some of rice
     1.1 Buy some of coke
 
 
+```plain
 * item 1
 * item 2
 * item 3
+```
+
+* item 1
+* item 2
+* item 3
+
+```plain
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+```
 
 1. Item 1
 1. Item 2
@@ -31,9 +87,15 @@
    1. Item 3a
    1. Item 3b
 
+
 # Links
 
+```plain
 [ Google webpage ](www.google.com)
+```
+
+[ Google webpage ](www.google.com)
+
 # Syntax Highlighting
 
 ### Javascript
@@ -79,7 +141,7 @@ let bar;
 ## Commit 1
 4cc16a63614af5f6d4eecd211e5609213ce2ff77
 ## Mention another github users
-@jetobe95 :satisfied: :heart:
-
+[@jetobe95](https://github.com/jetobe95) :satisfied: :heart:
+[@jelambrar96](https://github.com/jelambrar96) :floppy_disk:
 
 
