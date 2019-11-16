@@ -59,11 +59,14 @@ let bar;
 # Images
 ![Visual studio code logo](vscode.png "Vscode logo")
 
-# Tareas 
+# TODO 
 * [ ] Task 1
 
 * [ ] Task 2
 
 * [ ] Task 3
+
+## Mention another github users
+@jetobe95 :satisfied: :heart:
 
 
