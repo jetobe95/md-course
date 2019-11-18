@@ -138,8 +138,20 @@ let bar;
 * [ ] Task 2
 
 * [ ] Task 3
+
 ## Commit 1
 4cc16a63614af5f6d4eecd211e5609213ce2ff77
+
+# Emojis
+Markdown allows insert emojis on your text. You can get full list of emojis [here](https://gist.github.com/rxaviers/7360908).
+
+```plain
+:blush: :blue_heart: :running: :rocket:
+```
+:blush: :blue_heart: :running: :rocket:
+
+
+
 ## Mention another github users
 [@jetobe95](https://github.com/jetobe95) :satisfied: :heart:
 [@jelambrar96](https://github.com/jelambrar96) :floppy_disk:
