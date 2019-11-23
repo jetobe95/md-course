@@ -114,6 +114,30 @@ __This text will be bold__
    1. Item 3a
    1. Item 3b
 
+# Backslash escapes
+
+Mardown allows you generate literal characters using backslashes. This avoid Markdown add special formats.
+
+```plain
+\*astericks\*
+```
+
+\*astericks\*
+
+Symbol | code
+-------|-----------------
+\*     | asterisk
+\\     | backslash
+\`     | backtick
+\{\}   | curlybraces
+\.     | dot
+\!     | exclamation
+\#     | hash marck
+\-     | minus sign
+\(\)   | parenthesis
+\+     | plus sign
+\[\]   | square brackets
+\_     | underscore
 
 # Links
 
@@ -148,6 +172,22 @@ let bar;
 
 # Tables
 
+Look this code
+
+```plain
+header 1     | header 2
+-------------|-------------
+colum 1	     | colum 2
+other cell 1 | other cell 2
+```
+
+header 1     | header 2
+-------------|-------------
+colum 1	     | colum 2
+other cell 1 | other cell 2
+
+This is another table
+
 |~~head1~~|_head2_|head3|
 |---:|:---:|--------|
 |Laborum commodo ipsum cillum consectetur Lorem ut incididunt ut tempor mollit.|Voluptate laboris occaecat dolor culpa elit Lorem veniam excepteur excepteur aute nostrud commodo eiusmod.|Ea duis excepteur laboris exercitation officia cupidatat enim occaecat pariatur.
@@ -171,6 +211,12 @@ let bar;
 
 # Emojis
 Markdown allows insert emojis on your text. You can get full list of emojis [here](https://gist.github.com/rxaviers/7360908).
+```
+:+1: :tada: :rocket: :octocat:
+```
+
+:+1: :tada: :rocket: :octocat:
+
 
 ```plain
 :blush: :blue_heart: :running: :rocket:
@@ -180,7 +226,8 @@ Markdown allows insert emojis on your text. You can get full list of emojis [her
 
 
 ## Mention another github users
-[@jetobe95](https://github.com/jetobe95) :satisfied: :heart:
-[@jelambrar96](https://github.com/jelambrar96) :floppy_disk:
 
+[@jetobe95](https://github.com/jetobe95) :satisfied: :heart:
+
+[@jelambrar96](https://github.com/jelambrar96) :floppy_disk:
 
