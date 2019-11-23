@@ -2,6 +2,15 @@
 
 Markdown is a powerfull text processor, Markdown allows you to generate easy text with basic text format such bold, italic, to add images and to create list.
 
+
+# Comments 
+ 
+
+```text plain
+
+<!-- i am a comment 😁 -->
+
+```
 ------
 
 <!-- Heading -->
