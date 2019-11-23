@@ -1,6 +1,6 @@
 # A simple Markdown Tutorial
 
-Markdown is a powerfull text processor, Markdown allows you to generate easy text with basic text format.
+Markdown is a powerfull text processor, Markdown allows you to generate easy text with basic text format such bold, italic, to add images and to create list.
 
 ------
 
@@ -37,6 +37,33 @@ Markdown allows to create text with emphasis like titles and subtitles. The way 
 ```
 
 ##### h5 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+
+-----
+# Emphasis
+
+```plain
+*This text will be italic*
+_This text will be italic_
+```
+
+*This text will be italic*
+_This text will be italic_
+
+
+```plain
+**This text will be bold**
+__This text will be bold__
+```
+
+**This text will be bold**
+__This text will be bold__
+
+
+```plain
+*This is a **combination** of italic and bold*
+```
+
+*This is a **combination** of italic and bold*
 
 -----
 
@@ -87,6 +114,30 @@ Markdown allows to create text with emphasis like titles and subtitles. The way 
    1. Item 3a
    1. Item 3b
 
+# Backslash escapes
+
+Mardown allows you generate literal characters using backslashes. This avoid Markdown add special formats.
+
+```plain
+\*astericks\*
+```
+
+\*astericks\*
+
+Symbol | code
+-------|-----------------
+\*     | asterisk
+\\     | backslash
+\`     | backtick
+\{\}   | curlybraces
+\.     | dot
+\!     | exclamation
+\#     | hash marck
+\-     | minus sign
+\(\)   | parenthesis
+\+     | plus sign
+\[\]   | square brackets
+\_     | underscore
 
 # Links
 
@@ -121,6 +172,22 @@ let bar;
 
 # Tables
 
+Look this code
+
+```plain
+header 1     | header 2
+-------------|-------------
+colum 1	     | colum 2
+other cell 1 | other cell 2
+```
+
+header 1     | header 2
+-------------|-------------
+colum 1	     | colum 2
+other cell 1 | other cell 2
+
+This is another table
+
 |~~head1~~|_head2_|head3|
 |---:|:---:|--------|
 |Laborum commodo ipsum cillum consectetur Lorem ut incididunt ut tempor mollit.|Voluptate laboris occaecat dolor culpa elit Lorem veniam excepteur excepteur aute nostrud commodo eiusmod.|Ea duis excepteur laboris exercitation officia cupidatat enim occaecat pariatur.
@@ -138,10 +205,29 @@ let bar;
 * [ ] Task 2
 
 * [ ] Task 3
+
 ## Commit 1
 4cc16a63614af5f6d4eecd211e5609213ce2ff77
-## Mention another github users
-[@jetobe95](https://github.com/jetobe95) :satisfied: :heart:
-[@jelambrar96](https://github.com/jelambrar96) :floppy_disk:
 
+# Emojis
+Markdown allows insert emojis on your text. You can get full list of emojis [here](https://gist.github.com/rxaviers/7360908).
+```
+:+1: :tada: :rocket: :octocat:
+```
+
+:+1: :tada: :rocket: :octocat:
+
+
+```plain
+:blush: :blue_heart: :running: :rocket:
+```
+:blush: :blue_heart: :running: :rocket:
+
+
+
+## Mention another github users
+
+[@jetobe95](https://github.com/jetobe95) :satisfied: :heart:
+
+[@jelambrar96](https://github.com/jelambrar96) :floppy_disk:
 
