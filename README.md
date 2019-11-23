@@ -1,6 +1,6 @@
 # A simple Markdown Tutorial
 
-Markdown is a powerfull text processor, Markdown allows you to generate easy text with basic text format.
+Markdown is a powerfull text processor, Markdown allows you to generate easy text with basic text format such bold, italic, to add images and to create list.
 
 ------
 
@@ -37,6 +37,33 @@ Markdown allows to create text with emphasis like titles and subtitles. The way 
 ```
 
 ##### h5 Occaecat ut quis mollit cillum cupidatat commodo velit eiusmod.
+
+-----
+# Emphasis
+
+```plain
+*This text will be italic*
+_This text will be italic_
+```
+
+*This text will be italic*
+_This text will be italic_
+
+
+```plain
+**This text will be bold**
+__This text will be bold__
+```
+
+**This text will be bold**
+__This text will be bold__
+
+
+```plain
+*This is a **combination** of italic and bold*
+```
+
+*This is a **combination** of italic and bold*
 
 -----
 
