@@ -240,3 +240,6 @@ Markdown allows insert emojis on your text. You can get full list of emojis [her
 
 [@jelambrar96](https://github.com/jelambrar96) :floppy_disk:
 
+# Credits
+[Youtube - Markdown, Curso Práctico para principiantes y desarrolladores](https://www.youtube.com/watch?v=oxaH9CFpeEE)
+
