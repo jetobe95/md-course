@@ -203,6 +203,13 @@ This is another table
 |_`code`_|![Vscode][logo]
 
 # Images
+
+
+```text plain
+[logo]:vscode.png "Vscode logo"
+
+![Vscode][logo]
+```
 [logo]:vscode.png "Vscode logo"
 
 ![Vscode][logo]
